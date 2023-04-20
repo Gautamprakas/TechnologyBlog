@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Durgesh
+ * @author Prakash
  */
 public class LikeServlet extends HttpServlet {
 
